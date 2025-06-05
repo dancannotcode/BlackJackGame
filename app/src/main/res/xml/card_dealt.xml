@@ -1,0 +1,15 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator">
+
+    <!-- Move X -->
+    <translate
+        android:fromXDelta="0"
+        android:toXDelta="500"
+        android:duration="1000" />
+
+    <!-- Move Y -->
+    <translate
+        android:fromYDelta="0"
+        android:toYDelta="500"
+        android:duration="1000" />
+</set>
