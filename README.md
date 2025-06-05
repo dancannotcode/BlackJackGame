@@ -164,5 +164,5 @@ Feel free to reach out for collaboration, feedback, or questions.
 
 Connect with me:  
 * **Email:** [dancannotcode@gmail.com](mailto:dancannotcode@gmail.com)  
-* **GitHub:** [YourGitHubProfile](https://github.com/dancannotcode)  
+* **GitHub:** [dancannotcode](https://github.com/dancannotcode)  
 * **LinkedIn:** [Daniel Ortega Jr](https://www.linkedin.com/in/daniel-ortega-jr-4b79b1336/)
