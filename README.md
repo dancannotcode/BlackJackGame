@@ -22,9 +22,9 @@ normally in order to play blackjack people would have to spend money, however th
 ## Screenshots
 During the gameplay it shows the users hand in which they can choose to either stand or hit a card. In the case a user hits it will then play an animation of the card moving toward their deck. If the hand busts or wins the user will be sent to the result screen in which their win-loss record will be shown.
 <div style = {display: flex}>
-  <img width="300" alt="The Cover Page of the app" src="https://github.com/user-attachments/assets/111d4237-9eec-4590-9aa3-f243bf22fd79"
+  <img width="300" alt="The game of blackjack of a users hand" src="https://github.com/user-attachments/assets/111d4237-9eec-4590-9aa3-f243bf22fd79"
 >
-  <img width="300" alt="The Login Page of the app. Shows what an Unsuccseful login looks like" src="https://github.com/user-attachments/assets/ea1f69f1-201a-4b72-9cbe-985ebd69774b">
+  <img width="300" alt="The win loss screen showing the users with more wins than losses" src="https://github.com/user-attachments/assets/ea1f69f1-201a-4b72-9cbe-985ebd69774b">
 </div> 
 
 
